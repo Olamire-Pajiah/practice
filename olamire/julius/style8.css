@@ -1,0 +1,39 @@
+body{
+    background-color: green;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+h1{
+    background-color: black;
+    color: blue;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+p{
+    background-color: gray;
+}
+h2{
+    color: red;
+    border: 5px dotted black;
+    margin: auto;
+    width: fit-content;
+}
+li{
+    margin-bottom: 5px;
+}
+li:nth-child(odd){
+    background-color: goldenrod;
+}
+li:nth-child(even){
+    background-color: coral;
+}
+img{
+    opacity: 0.89;
+}
+a{
+    color: blueviolet;
+    display: inline-block;
+    width: 100%;
+}

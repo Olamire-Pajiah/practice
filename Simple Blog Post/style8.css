@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(red,blue);
+    min-height: 100vh;
+    color: gold;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+li:nth-child(odd){
+    background-color: coral;
+}
+li:nth-child(even){
+    background-color: green;
+}
+.list{
+    width: 50%;
+    height: 80px;
+}

@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(red,blue,orange);
+    color: gold;
+    font-weight: bold;
+    font-size: 1.599rem;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: rgba(247, 204, 12, 0.918);
+}
+h2{
+    background-color: crimson;
+}
+#im1{
+    opacity: 0.75;
+}
+#im2{
+    opacity: 0.69;
+}
+.focus:focus{
+    border: 2px;
+    background-color: coral;
+}
+button{
+    background-color: chocolate;
+    color: rgb(132, 250, 14);
+    width: 2cm;
+}

@@ -1,0 +1,40 @@
+body{
+    background-color:peru;
+    color:khaki;
+}
+p{
+    background-color: aqua;
+    color: burlywood;
+}
+.lorem{
+    width: 150px;
+    border: 2px solid red;
+    padding: 5px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+}
+ul{
+    list-style: none;
+    color: rgba(132, 247, 199, 0.856);
+}
+ol{
+    list-style: decimal-leading-zero;
+    color: rgba(248, 246, 99, 0.899);
+}
+li{
+    margin-top: 3.5px;
+}
+#lorem2{
+    background: linear-gradient(to right,blue,red);
+    color: rgb(244, 255, 255);
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+#lorem3{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cream;
+    background-color: darkgoldenrod;          
+}
